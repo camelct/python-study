@@ -1,0 +1,29 @@
+<Data>
+	<Row>
+		<Date>2016-06-30</Date>
+		<Open>8.69</Open>
+		<High>8.74</High>
+		<Low>8.66</Low>
+		<Close>8.70</Close>
+		<Volume>36220400</Volume>
+		<Adj Close>8.70</Adj Close>
+	</Row>
+	<Row>
+		<Date>2016-06-29</Date>
+		<Open>8.63</Open>
+		<High>8.69</High>
+		<Low>8.62</Low>
+		<Close>8.69</Close>
+		<Volume>36961100</Volume>
+		<Adj Close>8.69</Adj Close>
+	</Row>
+	<Row>
+		<Date>2016-06-28</Date>
+		<Open>8.58</Open>
+		<High>8.64</High>
+		<Low>8.56</Low>
+		<Close>8.63</Close>
+		<Volume>33651900</Volume>
+		<Adj Close>8.63</Adj Close>
+	</Row>
+</Data>
